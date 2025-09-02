@@ -25,7 +25,6 @@ const helloworld3 = "Hello, JavaScript3 con const"
 console.log (helloworld3)
 
 //Esto seria un error
-
 /*
 helloworld3 = "Hola de nuevo, JavaScript3 con const"
 console.log (helloworld3)*/
